@@ -1,8 +1,8 @@
 {
-  "name": "GDrive-Uploader-Bot",
-  "description": "Telegram/Direct Links to GDrive Uploader Bot",
-  "repository": "https://github.com/viperadnan-git/google-drive-telegram-bot",
-  "logo": "https://telegra.ph/file/8669281aa2360613f7511.jpg",
+  "name": "Gdrive Uploader",
+  "description": "Telegram/Direct Links to Gdrive Uploader Bot",
+  "repository": "https://github.com/simtopi/google-drive-telegram-bot",
+  "logo": "https://telegra.ph/file/435855d77f6b5764fdfc8.jpg",
   "keywords": ["Telegram", "Google Drive", "uploader"],
   "env": {
     "ENV": {
@@ -24,11 +24,11 @@
     },
     "SUPPORT_CHAT_LINK": {
       "description": "Support Chat link in valid url format.",
-      "value": "https://viperadnan-git.github.io"
+      "value": "https://t.me/black_wId0W00"
     },
     "DOWNLOAD_DIRECTORY": {
       "description": "Custom path for downloads. Must end with a forward slash.",
-      "value": "./downloads/"
+      "value": "./Gdrive/"
     },
     "G_DRIVE_CLIENT_ID": {
       "description": "Google Drive Client ID from Google Cloud Platform",
