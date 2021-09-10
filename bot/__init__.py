@@ -19,7 +19,7 @@ try:
     DATABASE_URL = os.environ.get('DATABASE_URL')
     SUDO_USERS = os.environ.get('SUDO_USERS')
     SUPPORT_CHAT_LINK = os.environ.get('SUPPORT_CHAT_LINK')
-    DOWNLOAD_DIRECTORY = os.environ.get("DOWNLOAD_DIRECTORY", "./downloads/")
+    DOWNLOAD_DIRECTORY = os.environ.get("DOWNLOAD_DIRECTORY", "./Gdrive/")
     G_DRIVE_CLIENT_ID = os.environ.get("G_DRIVE_CLIENT_ID")
     G_DRIVE_CLIENT_SECRET = os.environ.get("G_DRIVE_CLIENT_SECRET")
   else:
